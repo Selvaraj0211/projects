@@ -21,7 +21,7 @@ margin: 10px;
     
 }
 .head__desc{
-    color: lightcoral;
+    color: darkmagenta;
     font-weight: 100;
 }
 .menu{
@@ -32,6 +32,8 @@ margin: 10px;
     border:solid chocolate 1px;
     display:inline-block;
     width:200px;
+    background-color: lightsteelblue;
+    color: darkred;
     
 }
 .menu__disc{
